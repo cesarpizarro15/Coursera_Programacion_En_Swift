@@ -8,7 +8,7 @@ for i in 0...100{
     if i % 5 == 0 {
         print("# \(i) Bingo!!!")
     }
-    
+
     //#Par
     if i % 2 == 0 {
         print("# \(i) par!!!")
